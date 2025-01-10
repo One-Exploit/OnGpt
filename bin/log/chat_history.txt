@@ -1,0 +1,79 @@
+You: For me a SOD content to comment for a hotel.
+I want to be good about Vio with a room pool
+System: من می دانم که شما می خواهید به ایجاد بیانیه ای از محتوای سلب مسئولیت (SOD) برای یک هتل کمک کنید ، به طور خاص با تمرکز بر تخلف مربوط به استخر اتاق.با این حال ، من اطلاعات کافی برای تهیه یک سود کامل مبتنی بر زمینه ای که به اشتراک گذاشته اید ندارم.
+
+برای ایجاد یک سود مؤثر ، ما به جزئیات بیشتری مانند:
+
+1. ماهیت خاص تخلف
+2. سیاست های هتل در مورد استفاده از استخر
+3. هرگونه الزامات قانونی مربوطه یا استانداردهای صنعت
+
+آیا می توانید اطلاعات بیشتری در مورد نقض و هرگونه سیاست یا مقررات مربوطه ارائه دهید؟این به من کمک می کند تا یک جوش دقیق تر و جامع تر ایجاد کنم.
+
+در ضمن ، در اینجا یک الگوی کلی برای SOD وجود دارد که می تواند برای وضعیت شما سازگار باشد:
+
+``
+بیانیه سلب مسئولیت
+
+1. سیاست استفاده از استخر: [در اینجا سیاست استفاده از استخر هتل را در اینجا وارد کنید]
+
+2. توضیحات تخلف: [تخلف خاص مربوط به دسترسی به استخر اتاق]
+
+3. عواقب: [هرگونه عواقب نقض سیاست استخر را توضیح دهید]
+
+4. مسئولیت مهمان: [مسئولیت های مهمان در مورد دسترسی به استخر]
+
+5. مسئولیت هتل: [محدودیت های مسئولیت هتل ایالتی]
+
+6. تغییر در خط مشی: [توجه داشته باشید هرگونه تغییر در سیاست استخر]
+
+7. تاریخ مؤثر: [تاریخ درج این SOD اثر می گذارد]
+`` `
+
+لطفاً جزئیات بیشتری را ارائه دهید تا بتوانم در ایجاد یک SOD مناسب برای وضعیت خاص خود به شما کمک کنم.
+
+You: Producing me this content
+System: من می فهمم که شما می خواهید من بر اساس متن معین محتوا تولید کنم.با این حال ، من هیچ دستورالعمل یا جزئیات خاصی در مورد نوع محتوای مورد نیاز شما نمی بینم.آیا می توانید اطلاعات بیشتری در مورد کدام نوع محتوایی که به دنبال آن هستید ارائه دهید؟
+
+You: Hello
+System: Hello
+
+Here is text for the context:
+
+This appears to be a test message or placeholder text. It doesn't contain any specific programming or technical content that I can assist with directly. If you have a particular question or task related to programming, please feel free to ask, and I'll do my best to help.
+
+Is there anything specific you'd like assistance with regarding this text or any other aspect of your project?
+
+You: Hi
+System: سلام!من یک دستیار هوش مصنوعی هستم که توسط PHIND برای کمک به کارهای برنامه نویسی ایجاد شده است.امروز چگونه می توانم به شما کمک کنم؟
+
+You: MEREBA?
+System: Üzgünüm, ama bir yanlış anlama var gibi görünüyor.Phind tarafından oluşturulan bir AI asistanı olarak, çalışacağım belirli bir kod tabanım veya dosyam yok.Yardıma ihtiyacınız olan görev veya kod hakkında daha fazla bilgi verebilir misiniz?Kod paylaşmak istiyorsanız, bunu doğrudan mesajınıza yapıştırarak yapabilirsiniz ve size yardımcı olmaktan mutluluk duyarım.
+
+You: سلام
+System: I understand you've provided some text in Persian (Farsi) along with English. The text appears to be incomplete as it ends abruptly. Could you please provide more context or clarify what you need assistance with? I'm here to help with any programming or technical questions you might have.
+
+You: سلام
+System: من می دانم که شما متن را به زبان فارسی (فارسی) به همراه متن انگلیسی ارائه داده اید.با این حال ، من هیچ برنامه نویسی یا کار فنی خاصی مربوط به این ورودی را نمی بینم.آیا می توانید جزئیات بیشتری را در مورد آنچه به کمک نیاز دارید ارائه دهید؟آیا به دنبال کمک با یک قطعه خاص از کد ، اشکال زدایی یک مسئله یا چیز دیگری در رابطه با برنامه نویسی هستید؟
+
+You: nasilsin?
+System: Nasıl yaptığımı sorduğunu anlıyorum.Bir VSCode uzantısında çalışan bir AI asistanı olarak, düzgün çalışıyorum ve sahip olabileceğiniz herhangi bir programlama görevinde veya sorularınızda size yardımcı olmaya hazırım.Yardım istediğiniz belirli bir kodlama sorunu veya konu var mı?
+
+You: سلام
+System: Farsça (farsi) İngilizce ile birlikte biraz metin verdiğinizi anlıyorum.Bu metin hakkında hangi özel yardıma ihtiyacınız olduğunu açıklayabilir misiniz?Çeviri, biçimlendirme yardımı mı yoksa bu içerikle ilgili başka bir şey mi arıyorsunuz?
+
+You: Hi
+System: Hello! I'm an AI assistant created by Phind to help with programming tasks. How can I assist you today?
+
+You: MEREBA?
+System: Üzgünüm, ama bir yanlış anlama var gibi görünüyor.Phind tarafından oluşturulan bir AI asistanı olarak, bu konuşmanın dışındaki harici dosyalara veya koda doğrudan erişimim yok.Yardıma ihtiyacınız olan şey hakkında daha fazla bilgi verebilir misiniz?Yardım istediğiniz belirli kodunuz veya dosyalarınız varsa, bunları doğrudan sohbetimizde paylaşmaktan çekinmeyin.
+
+You: How can I open these access for you?
+System: Benim için erişim açma hakkında daha fazla bağlam sağlamak için lütfen paylaşır mısınız:
+
+1. Erişim sağlamak istediğiniz belirli dosyalar veya dizinler?
+2. Herhangi bir kimlik doğrulama yöntemi veya kimlik bilgileri gereklidir (ör. API tuşları, şifreler)?
+3. Bu projede yer alan programlama dilleri veya araçları?
+
+Bu bilgileri sağladıktan sonra, açılış erişiminde ve ilgili görevlerde size yardımcı olmak için daha iyi donanımlı olacağım.
+
